@@ -1,0 +1,20 @@
+{
+  "name": "quickly-use-reducer",
+  "version": "0.0.0",
+  "description": "Quickly generate a reducer and corresponding action creators",
+  "keywords": [
+    "useReducer",
+    "reducer",
+    "action creators"
+  ],
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/types",
+  "author": "Xuan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
