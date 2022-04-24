@@ -1,5 +1,7 @@
 # Quickly Use Reducer
 
+[![npm](https://img.shields.io/npm/v/quickly-use-reducer)](https://www.npmjs.com/package/quickly-use-reducer)
+
 Use this package to generate reducer and action creators automatically. All you need to do is passing the initial state and an object which contains all case reducers.
 
 ## Example
